@@ -1,1 +1,1 @@
-# bootstrap-portfolio
+This portfolio was created using Bootstrap to showcase my versalitity using sed service. I have found bootstrap to be an extremely valuable tool to streamline the development process and increase functionality.
